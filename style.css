@@ -91,7 +91,7 @@ display: flex;
 }
 
 .background {
-   background: rgba(0, 0, 0, 0.7)url('../img/sonusir.jpg');
+   background: rgba(0, 0, 0, 0.7)url('sonusir.jpg');
    background-image: fixed;
    background-attachment: fixed;
    background-blend-mode: darken;
@@ -99,7 +99,7 @@ display: flex;
 
 }
 .backgroundne {
-   background: rgba(0, 0, 0, 0.83) url('../neerajsir/neeraj3.png');
+   background: rgba(0, 0, 0, 0.83) url('neeraj3.png');
 
    height: 248vh;
    margin-top: -48px;
@@ -107,7 +107,7 @@ display: flex;
 
 }
 .background2{
-   background: rgba(0, 0, 0, 0.7)url('../img/sonusir.jpg');
+   background: rgba(0, 0, 0, 0.7)url('sonusir.jpg');
    background-image: fixed;
    background-attachment: fixed;
    background-blend-mode: darken;
